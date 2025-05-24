@@ -476,9 +476,8 @@ body.dark-mode .info-message {
         font-size: 1.9em;
     }
 
-    h4 {
-        text-align: center;
-        font-size: 1.2em;
+    h4, #toggle-tutorial-btn {
+        display: none;
     }
 
     form {
